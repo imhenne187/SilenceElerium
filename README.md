@@ -1,5 +1,7 @@
 # This is a rework of https://github.com/memejames/elerium-v2-ui-library made by me (Henne)
 
+![Preview](preview.png)
+
 Loadstring
 ```lua
 local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/imhenne187/SilenceElerium/refs/heads/main/src/SilenceEleriumLibrary.luau", true))()
