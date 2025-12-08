@@ -1,8 +1,8 @@
-# This is a rework of https://github.com/memejames/elerium-v2-ui-library made by me (Henne)
+# This is a rework of https://github.com/memejames/elerium-v2-ui-library made by imhenne187
 
 ![Preview](preview.png)
 
-Loadstring
+Loadstring:
 ```lua
 local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/imhenne187/SilenceElerium/refs/heads/main/src/SilenceEleriumLibrary.luau", true))()
 ```
@@ -73,4 +73,4 @@ local not_a_planet = dropdown:Add("Iridocyclitis")
 
 ```
 
-Credit to Chinawasspyingonusa
+Credits to discord @imhenne
